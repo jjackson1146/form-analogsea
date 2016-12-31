@@ -78,3 +78,42 @@ input {
 .bottom {
   padding-bottom: 10px;
 }
+
+.signupbutton {
+  background-color: #15CD72;
+  border-radius: 3px;
+  width: 280px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  padding-left: 10px;
+
+}
+
+.forgot {
+  background-color: white;
+  color: gray;
+  font-family: sans-serif;
+  font-weight: 100;
+
+}
+
+p {
+  color: #777777;
+  font-size: 14px;
+  text-align: center;
+  background-color: white;
+  margin-top: -4px;
+}
+
+.existing {
+  background-color: #298EEA;
+  color: white;
+  font-weight: 800;
+  font-family: sans-serif;
+  margin-top: 10px;
+}
